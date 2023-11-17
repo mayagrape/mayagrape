@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mayagrape/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="60" alt="LinkedIn">
-  </a> &nbsp; &nbsp;
-  <a href="mailto:maya.grape@gmail.com" style="background-color:pink; padding:5px 10px; color:white; text-decoration:none; border-radius:5px;">
-    Maya Müller Grape
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="30" alt="LinkedIn">
+  </a> &nbsp;
+  <a href="mailto:maya.grape@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Maya%20M%C3%BCller%20Grape-pink" alt="Email">
   </a>
 </p>
 
