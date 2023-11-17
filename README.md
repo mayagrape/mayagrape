@@ -1,11 +1,11 @@
-# <span style="color: pink;">Hello, I'm Maya Müller Grape! 👋</span>
+<h1 align="center">Hello, I'm Maya Müller Grape! 👋</h1>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/mayagrape/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="100" alt="LinkedIn">
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="30" alt="LinkedIn" />
+  </a> &nbsp; &nbsp;
   <a href="mailto:maya.grape@gmail.com">
-    <img src="attachment://MayaMullerGrapeEmail.png" width="100" alt="Email">
+    <img src="path-to-your-email-image" width="30" alt="Email" />
   </a>
 </p>
 
