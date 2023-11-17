@@ -44,22 +44,6 @@ I am passionate about using data analytics to enhance business strategies and dr
 1. **Boston Consulting Group - Visiting Associate**: Created an ERP implementation model for a big consumer company.
 2. **Askeladden & Co (Venture Company) - Business Intern**: Developed a comprehensive dashboard for a start-up company, used as template for other start-ups.
 
-## <span style="color: pink;">Extracurricular Activities 🌟</span>
-- **[Club or Activity]**: [Role and What You Do]
-- **Volunteer Work**: [Any Volunteer Work or Community Service]
-- **Hobbies and Interests**: Skiing, Cooking, hiking and sailing
-
-## <span style="color: pink;">Certifications and Online Courses 🖥️</span>
-- **[Certification/Course Name]** from [Platform/Institution]
-- **[Another Certification/Course]**
-
-## <span style="color: pink;">Connect with Me 🌐</span>
-- **LinkedIn**: [https://www.linkedin.com/in/mayagrape/](https://www.linkedin.com/in/mayagrape/)
-- **Email**: [maya.grape@gmail.com](mailto:maya.grape@gmail.com)
-
-## <span style="color: pink;">A Bit More About Me 🎉</span>
-- I have...
-
 ---
 
 <span style="color: pink;">I'm always open to discussing tech, interests, and opportunities. Feel free to reach out or follow my journey here on GitHub!</span>
