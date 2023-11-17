@@ -11,18 +11,18 @@ I am passionate about using data analytics to enhance business strategies and dr
 - **Bachelor Degree**: Economics and Business Administration (Norwegian School of Economics)
 - **Achievements**: Kistefoss Young Talented Leaders Scholarship recipient
 
-## <span style="color: pink;">Skills and Technologies I'm Learning 💻</span>
+## Skills and Technologies I'm Learning 💻
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge&logo=MySQL&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ### Tools & Technologies
-![DBeaver](https://img.shields.io/badge/DBeaver-FF69B4?style=for-the-badge&logo=DBeaver&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-FF69B4?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Dataiku](https://img.shields.io/badge/Dataiku-FF69B4?style=for-the-badge&logo=Dataiku&logoColor=white)
-![Nifi](https://img.shields.io/badge/Nifi-FF69B4?style=for-the-badge&logo=ApacheNifi&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-FF69B4?style=for-the-badge&logo=ApacheKafka&logoColor=white)
-![HDFS](https://img.shields.io/badge/HDFS-FF69B4?style=for-the-badge&logo=Hadoop&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-FE7A16?style=for-the-badge&logo=DBeaver&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Dataiku](https://img.shields.io/badge/Dataiku-FF4785?style=for-the-badge&logo=Dataiku&logoColor=white)
+![Nifi](https://img.shields.io/badge/Nifi-007396?style=for-the-badge&logo=ApacheNifi&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=ApacheKafka&logoColor=white)
+![HDFS](https://img.shields.io/badge/HDFS-FCA121?style=for-the-badge&logo=Hadoop&logoColor=white)
 
 ### Soft Skills
 - Communication
