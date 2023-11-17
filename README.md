@@ -1,5 +1,7 @@
 # <span style="color: pink;">Hello, I'm Maya Müller Grape! 👋</span>
-[LinkedIn](https://www.linkedin.com/in/mayagrape/) | [Email](mailto:maya.grape@gmail.com)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/mayagrape/)
+ | [![Email](attachment://MayaMullerGrapeEmail.png)](mailto:maya.grape@gmail.com)
+
 
 ## <span style="color: pink;">About Me 📚</span>
 I'm a Business Analytics and Big Data major at IE University, with a Bachelor's in Business and Economics. My academic path combines business insights with a strong analytical foundation. My undergraduate degree provided a deep understanding of market dynamics and economic principles, which now enriches my data analysis perspective.
