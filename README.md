@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mayagrape/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="30" alt="LinkedIn">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="65" alt="LinkedIn">
   </a> &nbsp;
   <a href="mailto:maya.grape@gmail.com">
     <img src="https://img.shields.io/badge/Email-Maya%20M%C3%BCller%20Grape-pink" alt="Email">
