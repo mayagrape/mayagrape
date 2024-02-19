@@ -43,6 +43,7 @@ I am passionate about using data analytics to enhance business strategies and dr
 ## <span style="color: pink;">Professional Experience</span>
 1. **Boston Consulting Group - Visiting Associate**: Created an ERP implementation model for a big consumer company.
 2. **Askeladden & Co (Venture Company) - Business Intern**: Developed a comprehensive dashboard for a start-up company, used as template for other start-ups.
+3. **Nordea - Investment banking intern**: Performed detailed financial analysis and market research, contributing to informed decision-making and client satisfaction
 
 ---
 
